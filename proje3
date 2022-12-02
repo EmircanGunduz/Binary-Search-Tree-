@@ -1,0 +1,18 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Binary Search Tree de root'un solunda bulunanlar root'tan küçük, sağında bulunanlar root'tan büyük olur.
+                                            root'u 5 olarak alalım
+                                                  
+                                                  
+                                                    5
+                                                   / \
+                                                  /   \
+                                                 4     7
+                                                /     / \
+                                               /     /   \
+                                              3     6     8
+                                             / \           \
+                                            /   \           \ 
+                                           0     2           9
+                                                 /
+                                                /
+                                               1
